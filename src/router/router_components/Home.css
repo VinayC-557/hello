@@ -1,0 +1,45 @@
+.Home{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 0;
+    height: 10%; 
+    padding-top: 30px;
+    padding-bottom: 10px; 
+     flex-direction: row;
+     flex-wrap: wrap; 
+     justify-content: center;
+    align-items: center; 
+    background-color: #FEFFD2;
+} 
+
+body{
+    background-color: #FEFFD2;
+
+} 
+
+  .welcometext{ 
+    color: midnightblue;
+    text-align: center;
+   text-transform: uppercase;
+   font-family: "Rajdhani", sans-serif;
+   font-size: large;
+   font-weight: bold;
+   width: 250px;
+   display: block;
+} 
+
+  .homepara{
+    color: midnightblue;
+    text-align: center;
+   text-transform: uppercase;
+   font-family: "Rajdhani", sans-serif;
+   font-weight: bold;
+   font-size: large;
+   width: 250px;
+   display: block;
+
+}  
+
+
+

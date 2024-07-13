@@ -1,0 +1,53 @@
+.Login{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #B2A4FF;
+
+  
+}
+
+h1{
+    font-family: "Lexend", sans-serif;
+    font-weight: 500;
+    font-size: large;
+}
+
+.cc{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+
+}
+
+.cc:hover{
+
+    color: blue;
+}
+
+.loginusername{
+
+    width: 300px;
+    font-size: small;
+}
+
+.loginuserpassword{
+    width: 300px;
+    font-size: small;
+
+}
+
+.loginbutton{
+  border-radius: 5px;
+  width: 100px;
+  cursor: pointer;
+  font-size: small;
+
+}
+
+.loginbutton:hover{
+   background-color: #B2A4FF;
+}
+

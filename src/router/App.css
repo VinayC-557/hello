@@ -1,0 +1,50 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color:  #595260;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+   
+   
+}
+
+footer{
+
+    display: flex;
+    flex-direction: row;
+    background-color: #595260;
+    padding-top: 20px;
+    padding-bottom: 100px ;
+    
+
+}
+
+.f_h1{
+
+    font-family: "Rajdhani", sans-serif;
+    color: #CDE8E5;
+}
+
+.f_h2{
+    font-family: "Rajdhani", sans-serif;
+    color: #CDE8E5;
+    font-weight: 300;
+    font-size: large;
+
+}
+
+a{
+    font-family: "Vollkorn", serif;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #CDE8E5;
+}
+
+
